@@ -47,18 +47,19 @@ later launches are quick.
 
 ### Controls
 
-Touch screen ................ same as on a phone
-Cross Circle Square Triangle  tap / hold (normal and long notes)
-D-pad, L, R ................. tap / hold (during songs)
-Both analog sticks .......... flick in the stick's direction
-Long note ending in a flick . keep the button held, then flick a stick
-START / SELECT .............. back / pause
+- Touch screen ................ same as on a phone
+- Cross Circle Square Triangle  tap / hold (normal and long notes)
+- D-pad, L, R ................. tap / hold (during songs)
+- Both analog sticks .......... flick in the stick's direction
+- Long note ending in a flick . keep the button held, then flick a stick
+- START / SELECT .............. back / pause
 
-In the menus:
-Free Mode ................... up/down scrolls the song list
-Tutorial .................... left/right turns pages,
+
+- In the menus:
+- Free Mode ................... up/down scrolls the song list
+- Tutorial .................... left/right turns pages,
                               Cross goes on (and presses PLAY), Circle exits
-Tutorial tips in songs ...... Cross or Circle to continue
+- Tutorial tips in songs ...... Cross or Circle to continue
 
 ## Building
 
