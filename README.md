@@ -34,7 +34,7 @@ Requirements:
 - A PS Vita with HENkaku / Enso and VitaShell.
 - kubridge.skprx: Recommended version: v0.3.1_hotfix (https://github.com/bythos14/kubridge/releases)
 - libshacccg.suprx
-- YOUR OWN GAME FILES.
+- YOUR OWN GAME FILES: APK file (to extract `libAppMain.so` file and `assets` folder from) and game data files (`com.snkplaymore.android009` folder)
 
 Installation:
 
